@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.27)  27 SEP 2022 10:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7) (preloaded format=pdflatex 2022.9.27)  18 OCT 2022 10:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -305,8 +305,6 @@ Package hyperref Info: Link coloring OFF on input line 30.
 \openout3 = `clanok.out'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <17.28> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 33.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 33.
@@ -319,9 +317,9 @@ LaTeX Font Info:    Trying to load font information for IL2+cmtt on input line
 File: il2cmtt.fd 1997/08/20 CSLaTeX font definitions
 )
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 33.
-LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <7> on input line 67.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 67.
 
 
 LaTeX Warning: Citation `Coplien:MPD' on page 1 undefined on input line 69.
@@ -349,36 +347,34 @@ Package rerunfilecheck Info: File `clanok.out' has not changed.
 (rerunfilecheck)             Checksum: DCA731DA2FC82593BB099E907EB500F3;982.
  ) 
 Here is how much of TeX's memory you used:
- 9820 strings out of 478338
- 157802 string characters out of 2836700
- 472344 words of memory out of 3000000
- 28104 multiletter control sequences out of 15000+600000
- 482597 words of font info for 59 fonts, out of 8000000 for 9000
+ 9810 strings out of 478338
+ 157755 string characters out of 2836700
+ 471274 words of memory out of 3000000
+ 28097 multiletter control sequences out of 15000+600000
+ 481006 words of font info for 54 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,342b,541s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,8n,77p,342b,549s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dp
 i600\csbx12.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
 onts/dpi600\cssl10.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/pub
-lic/csfonts/dpi600\csr6.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/public/csfonts/dpi600\csr8.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/
-ljfour/jknappen/ec/dpi600\tcrm0600.pk> <C:\Users\domin\AppData\Local\MiKTeX\fon
-ts/pk/ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\domin\AppData\Local\MiK
-TeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\domin\AppData\Lo
-cal\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\domin\AppDa
-ta\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\domi
-n\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\User
-s\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <
-C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9
+lic/csfonts/dpi600\csr8.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfou
+r/public/csfonts/dpi600\csr6.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/
+ljfour/public/csfonts/dpi600\csti10.pk> <C:\Users\domin\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/public/csfonts/dpi600\csbx10.pk> <C:\Users\domin\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr7.pk> <C:\Users\domin\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt10.pk> <C:\Users\domin\AppD
+ata\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csr10.pk> <C:\Users\domi
+n\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi720\csbx12.pk> <C:\Use
+rs\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\csbx9.pk> <
+C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600\cstt9
 .pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/dpi600
-\cstt9.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/
-dpi600\csr9.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
-onts/dpi600\csr12.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
-ppen/ec/dpi600\tcrm1200.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfou
-r/public/csfonts/dpi600\csr17.pk>
-Output written on clanok.pdf (2 pages, 111324 bytes).
+\csr9.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csfonts/d
+pi600\csr12.pk> <C:\Users\domin\AppData\Local\MiKTeX\fonts/pk/ljfour/public/csf
+onts/dpi600\csr17.pk>
+Output written on clanok.pdf (2 pages, 110069 bytes).
 PDF statistics:
- 414 PDF objects out of 1000 (max. 8388607)
+ 401 PDF objects out of 1000 (max. 8388607)
  18 named destinations out of 1000 (max. 500000)
  65 words of extra memory for PDF output out of 10000 (max. 10000000)
 
